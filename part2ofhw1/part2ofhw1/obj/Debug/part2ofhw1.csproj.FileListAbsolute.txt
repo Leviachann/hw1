@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\part2ofhw1\part2ofhw1\bin\Debug\part2ofhw1.exe.config
+C:\Users\User\source\repos\part2ofhw1\part2ofhw1\bin\Debug\part2ofhw1.exe
+C:\Users\User\source\repos\part2ofhw1\part2ofhw1\bin\Debug\part2ofhw1.pdb
+C:\Users\User\source\repos\part2ofhw1\part2ofhw1\obj\Debug\part2ofhw1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\part2ofhw1\part2ofhw1\obj\Debug\part2ofhw1.Form1.resources
+C:\Users\User\source\repos\part2ofhw1\part2ofhw1\obj\Debug\part2ofhw1.Properties.Resources.resources
+C:\Users\User\source\repos\part2ofhw1\part2ofhw1\obj\Debug\part2ofhw1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\part2ofhw1\part2ofhw1\obj\Debug\part2ofhw1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\part2ofhw1\part2ofhw1\obj\Debug\part2ofhw1.exe
+C:\Users\User\source\repos\part2ofhw1\part2ofhw1\obj\Debug\part2ofhw1.pdb
